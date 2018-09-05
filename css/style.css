@@ -1,4 +1,9 @@
-body{background: red}
+body{background: red;
+	width:970px;
+	margin:0 auto;
+}
+
+
 h1{
 	font-size: 55px;
 }
